@@ -7,6 +7,6 @@ texto /= 'oi';
 texto %= 'oi';
 
 
-console.log(texto)
+console.log(texto) 
 
 // o unico oreperador aritmietico que funciona em uma atribuição de concatenção é o mais (+)
