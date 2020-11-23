@@ -17,4 +17,4 @@ const sub2 = 7;
 const sub3 = 19;
 const sub4 = 52
 
-function soma()
+function soma(soma1, soma2);
