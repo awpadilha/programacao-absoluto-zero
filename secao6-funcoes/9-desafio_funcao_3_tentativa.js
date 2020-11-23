@@ -13,7 +13,7 @@ function minimo(n1, n2) {
     //     return n2;
     // }
 }
-
+//Função para calcular as duas amiores notas
 function mediaDuasMaiores(n1, n2, n3) {
     const menorNota = minimo(n1, minimo(n2, n3));
 
@@ -26,6 +26,7 @@ function mediaDuasMaiores(n1, n2, n3) {
     }
 }
 
+//Função para definir conceito
 function mediaParaStatus(media) {
     if(media >= 7) {
         return "Aprovado";
