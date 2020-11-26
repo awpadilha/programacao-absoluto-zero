@@ -1,6 +1,6 @@
 function executar(param) {
     if(typeof param === "function") {
-        console.log(param()); // <--- Central da aula
+        console.log(param()); // <--- Parte central da aula
     }
 }
 
@@ -9,7 +9,7 @@ function bomDia() {
 }
 
 executar(3);
-executar(bomDia); // <--- Central da aula
+executar(bomDia); // <--- Parte central da aula
 
 const x = bomDia;
 const y = bomDia();
