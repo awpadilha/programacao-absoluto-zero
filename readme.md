@@ -16,5 +16,5 @@ Desenvolvimento dos das atividades e exemplos das aulas para melhor compreensão
 https://www.udemy.com/course/aprenda-programacao-do-absoluto-zero-o-seu-primeiro-curso/
 
 
-## :rocket: Em andamento - 75% Concluído
+## :rocket: Em andamento - 80% Concluído
 
