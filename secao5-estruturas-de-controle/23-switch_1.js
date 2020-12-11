@@ -1,4 +1,4 @@
-let nota = 10;
+let nota = 5;
 
 switch(Math.ceil(nota)) {
     case 10: case 9: case 8: case 7:
