@@ -14,7 +14,7 @@ numeros.forEach(function(el) {
 numeros.forEach(function(_, i) {
     console.log(i)
 }); 
-
+  
 
 
 // numeros.forEach(function(){
