@@ -2,7 +2,7 @@ const produto = { // 3 atributos ou propriedades
     nome: 'Ipad',
     preco: 5600,
     desconto: 0.15,
-    precoComDesconto: function() { // METODO = funcao dentro do cntexto do objeto
+    precoComDesconto: function() { // METODO = funcao dentro do contexto do objeto
         return preco * (1 - desconto);
     }
 }
