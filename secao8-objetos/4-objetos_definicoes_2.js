@@ -1,3 +1,5 @@
+//Obejto é composto por:
+
 // Atributos: são caracteristicas do objeto
 // Métodos: representam as ações de um determinado objeto ou algoritmos associados aqueles objetos
 
