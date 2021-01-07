@@ -12,7 +12,7 @@
 
 // errei pq inverti, era conceito e exibir nota, não nota e exibir conceito
 
-let nota = 4.5;
+let nota = 4;
 
 switch(Math.ceil(nota)) {
     case 10: console.log('A+'); break;
